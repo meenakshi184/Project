@@ -7,6 +7,7 @@
 #include <memory> // For smart pointers
 #include <stdexcept> // For exceptions
 
+
 using namespace std;
 
 // Constants
